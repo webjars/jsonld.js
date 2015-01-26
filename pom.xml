@@ -78,7 +78,7 @@
             <configuration>
               <url>${upstream.url}</url>
               <fromFile>jsonld.js</fromFile>
-              <toFile>${destDir}/json.js</toFile>
+              <toFile>${destDir}/jsonld.js</toFile>
             </configuration>
           </execution>
           <execution>
